@@ -426,7 +426,7 @@ footer {
   .nav-bottom .menu {
     display: none;
     position: absolute;
-    top: 67px;
+    top: 65px;
     left: 0;
     z-index: 100;
     background: rgba(0, 0, 0, 0.8);
