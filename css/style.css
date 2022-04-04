@@ -302,7 +302,10 @@ nav {
   color: #fff;
   cursor: pointer;
 }
-
+.email-btn:hover {
+  background: #68d87d;
+  transition: all ease 0.3s;
+}
 /* footer */
 footer {
   background-color: #1b1d1f;
