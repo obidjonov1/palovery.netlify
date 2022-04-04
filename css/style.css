@@ -300,6 +300,7 @@ nav {
   border-radius: 4px;
   background: #5ac26d;
   color: #fff;
+  cursor: pointer;
 }
 
 /* footer */
